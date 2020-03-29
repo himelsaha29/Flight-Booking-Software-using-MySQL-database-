@@ -1,4 +1,4 @@
-# Flight-Booking-Software-using-MySQL-database-
+# Flight-Booking-Software-using-MySQL-database
 
 Flight-Booking-Software, created project using Java Database Connectivity: 
 Flight booking application (UI created using Java Swing library) 
